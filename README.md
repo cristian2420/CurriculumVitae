@@ -4,5 +4,4 @@ This repository was inspired by [Mike's](https://github.com/mikecuoco/curriculum
 
 ## TODO
 - [ ] Fix broken references
-- [ ] Merge same preprint and publication paper
-- [ ] 
+- [ ] Merge the same preprint and publication paper.
