@@ -1,5 +1,7 @@
 # Cristian's CurriculumVitae
 
-This repository was inspired by [Mike's](https://github.com/mikecuoco/curriculum-vitae) repository, following [this template](https://www.overleaf.com/latex/templates/autocv/scfvqfpxncwb).
+This repository was inspired by [Mike's](https://github.com/mikecuoco/curriculum-vitae) repository, following overleaf old templates.
 
-##Under Construction
+## TODO
+- [ ] Fix broken references
+- [ ] Merge the same preprint and publication paper.
