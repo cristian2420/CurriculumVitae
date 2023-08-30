@@ -55,8 +55,8 @@
     \\    
 & \\
 % --- Interests ---
-\nohyphenation{{\sc Research Interest}} & Understanding the effect of genetic variants linked to human diseases in immune-related cell 
-types, through the development of computational tools. \\ 
+\nohyphenation{{\sc Research Interest}} & Understanding the effect of genetic variants linked to human diseases in 
+immune-related cell types, through the development of computational tools. \\ 
 & \\
 
 % --- Education ---
@@ -78,7 +78,7 @@ types, through the development of computational tools. \\
  \end{minipage}
 \\[0.38in]
 % Previous BS
-& \textbf{Faculty Sciences, UNAM} \hfill Mexico City, Mexico \\
+& \textbf{Faculty of Sciences, UNAM} \hfill Mexico City, Mexico \\
 & BS in Biology \hfill 2015-2016 \\
 & \\
 
@@ -97,18 +97,22 @@ types, through the development of computational tools. \\
 % --
 &\textbf{La Jolla Institute for Immunology} \hfill 2019-2022\\
 & \textit{Research Technician}\\
-& \href{https://www.lji.org/labs/vijayanand/}{\textit{Vijayanand Lab, La Jolla Institute for Immunology}} \hfill La Jolla, California \\
+& \href{https://www.lji.org/labs/vijayanand/}{\textit{Vijayanand Lab, La Jolla Institute for Immunology}} \hfill La 
+Jolla, California \\
 & Quantitative Trait Loci (QTLs) for gene expression and histone \\ & marks in DICE database.  \\
 % --
 &\textbf{International Laboratory for Human Genome Research} \hfill 2018-2019\\
 & \textit{Undergraduate Researcher}\\
 & \href{https://liigh.unam.mx/amedina/}{\textit{Regulatory Genomics and Bioinformatics Lab}} \hfill Queretaro, Mexico \\
-& Development of tools for the identification of conserved regulatory \\ & regions in Prokaryotes genomes for the RSAT suite tools. \\
+& Development of tools for the identification of conserved regulatory \\ & regions in Prokaryotes genomes for the RSAT 
+suite tools. \\
 % --
 &\textbf{Center for Genomic Sciences, UNAM} \hfill 2017-2019\\
 & \textit{Undergraduate Researcher}\\
-& \href{https://www.ccg.unam.mx/en/computational-genomics/}{\textit{Computational Genomics Lab}} \hfill Morelos, Mexico \\
-& Development of machine learning tools for the improvement and \\ & automatization of analysis and biocuration on the REGULONDB. \\
+& \href{https://www.ccg.unam.mx/en/computational-genomics/}{\textit{Computational Genomics Lab}} \hfill Morelos, Mexico 
+\\
+& Development of machine learning tools for the improvement and \\ & automatization of analysis and biocuration on the 
+REGULONDB. \\
 & \begin{minipage}[c]{0.75\linewidth}
     \begin{compactitem}
     \item \nohyphenation{Automatic summarization of transcription factors (TFs) properties from text literature.}
@@ -122,9 +126,9 @@ types, through the development of computational tools. \\
 & \textit{Undergraduate Intership} \hfill 2015-2016\\
 & 
 \href{https://www.inmegen.gob.mx/investigacion/departamentos/departamento/?id=unidad-de-vinculacion-cientifica-facultad-de-medicina-inmegen}{\textit{Faculty 
-of Medicina-INMEGEN}}\\
-& Analysis of preterm birth genomic markers in Mexican population. \hfill Mexico City, Mexico \\ & Determination of cytokine concentration 
-in preterm birth samples. \\
+of Medicine-INMEGEN}}\\
+& Analysis of preterm birth genomic markers in Mexican population. \hfill Mexico City, Mexico \\ & Determination of 
+cytokine concentration in preterm birth samples. \\
 & \\
 \end{longtable} 
 \pagebreak
@@ -174,8 +178,8 @@ in preterm birth samples. \\
 % ---  Mentorhship ---
 {\sc{Mentorship}}
 & \textbf{Elizabeth Marquez-Gomez} \hfill 2021-2023 \\
-& Undergraduate Student, UNAM \\
-& \textit{Vijayanand Lab, La Jolla Institute for Immunology} \hfill La Jolla, California \\
+& Undergraduate Student, UNAM \hfill La Jolla, California\\
+& \textit{Vijayanand Lab, La Jolla Institute for Immunology}  \\
 & \\
 
 % --- Teching ---
@@ -209,8 +213,8 @@ in preterm birth samples. \\
 % {\color{OliveGreen}{Professional}} 
 % & {\textbf{Name of professional society.}} \hfill Month Year -- Present \\
 % {\color{OliveGreen}{memberships}} 
-% & Some things you did or conferences you attended. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, ornare non, commodo 
-eu, neque. \\
+% & Some things you did or conferences you attended. Aliquam volutpat est vel massa. Sed dolor lacus, imperdiet non, 
+ornare non, commodo eu, neque. \\
 % & \\
 
 % --- Section: Other interests/hobbies ---
